@@ -1,0 +1,26 @@
+{
+  "name": "node-js-testing-and-code-quality-14003857",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/datttrian/node-js-testing-and-code-quality-14003857",
+  "author": "datttrian <datttrian@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "basic-auth": "^2.0.1",
+    "cookie-parser": "^1.4.6",
+    "debug": "^4.3.4",
+    "express": "^4.18.2",
+    "joi": "^17.9.2",
+    "knex": "^2.5.1",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.4",
+    "morgan": "^1.10.0",
+    "pug": "^3.0.2",
+    "serve-favicon": "^2.5.0",
+    "sqlite3": "^5.1.6"
+  },
+  "devDependencies": {
+    "cross-env": "^7.0.3",
+    "nodemon": "^3.0.1"
+  }
+}
