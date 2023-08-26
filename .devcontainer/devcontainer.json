@@ -46,7 +46,8 @@
     "aaron-bond.better-comments",
     "vinliao.fast-arrow",
     "DigitalBrainstem.javascript-ejs-support",
-    "EditorConfig.EditorConfig"
+    "EditorConfig.EditorConfig",
+    "andys8.jest-snippets"
     // Additional Extensions Here
   ],
   "onCreateCommand": "echo 'export PS1=\"\\W $ \"' >> ~/.bashrc",
